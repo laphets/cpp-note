@@ -10,10 +10,6 @@ Function hierachy => need to be covered
 
 inline
 
-
-At last, cover ppts?
-
-
 Review Plan
 - 最后两张ppt
 - I/O
